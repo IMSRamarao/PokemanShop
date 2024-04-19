@@ -4,7 +4,15 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
-## Step 1: Install All packages..
+## Step 1: Clone the Repo.
+Clone the Application
+
+```bash
+git clone https://github.com/IMSRamarao/PokemanShop
+```
+Now open the Applivation in vsCode and open the terminal
+
+## Step 2: Install All packages..
 Before Running the metro bundler we need to the packages
 
 ```bash
@@ -17,18 +25,6 @@ After this you may also run pod install
 cd ios
 pod install
 cd ..
-```
-
-
-## Step 2: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
 ```
 
 ## Step 3: Start your Application
@@ -53,7 +49,18 @@ If everything is set up _correctly_, you should see your new app running in your
 
 This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
 
-## Step 3: Modifying your App
+## Step 4: Start the Metro Server
+
+First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+
+To start Metro, run the following command from the _root_ of your React Native project:
+
+```bash
+# using npm
+npm start
+```
+
+## Step 5: Modifying your App
 
 Now that you have successfully run the app, let's modify it.
 
