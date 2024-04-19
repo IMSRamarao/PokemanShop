@@ -78,10 +78,10 @@ https://pokeapi.co/api/v2/pokemon
 https://fakestoreapiserver.reactbd.com/amazonproducts
 
 ### App Screen shots
-<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/46a36d67-4398-4414-bf05-47e3ffa0f28b" width="100">
-<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/06b3e66d-1a21-42cd-a737-4a2946e73238" width="100">
-<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/5d14a204-68b1-4961-a097-a4894d1a441a" width="100">
-<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/71612b12-c2e8-42b7-88f6-933e75c3f363" width="100">
+<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/46a36d67-4398-4414-bf05-47e3ffa0f28b" width="200">
+<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/06b3e66d-1a21-42cd-a737-4a2946e73238" width="200">
+<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/5d14a204-68b1-4961-a097-a4894d1a441a" width="200">
+<img src="https://github.com/IMSRamarao/PokemanShop/assets/87899964/71612b12-c2e8-42b7-88f6-933e75c3f363" width="200">
 
 
 ### Now what?
