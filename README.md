@@ -74,6 +74,7 @@ Now that you have successfully run the app, let's modify it.
 You've successfully run and modified your React Native App. :partying_face:
 
 Used API calls:
+
 https://pokeapi.co/api/v2/pokemon
 
 https://fakestoreapiserver.reactbd.com/amazonproducts
